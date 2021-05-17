@@ -1,5 +1,5 @@
 # image-to-ascii
-Python program that transforms an image to an ASCII equivalent using OpenCV.<br/>
+Python program that transforms an image to an ASCII equivalent using OpenCV.<br/> <br/>
 ![python_logo](https://github.com/GustavoHenriqueMuller/image-to-ascii/blob/main/examples/logo.png)<br/>
 ![python_logo_ascii](https://github.com/GustavoHenriqueMuller/image-to-ascii/blob/main/examples/logoASCII.png)
 
