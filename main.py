@@ -66,7 +66,7 @@ def print_ascii_image(ascii_image):
     # Prints characters in ASCII image
     for row in ascii_image:
         for val in row:
-            print(val, end = '')
+            print(val, end = ' ')
         
         print()
 
@@ -80,7 +80,7 @@ def main():
     image = cv2.resize(image, (width, height))
 
     ascii_image = get_ascii(image)
-    print_ascii_image(ascii_image)    
+    print_ascii_image(ascii_image)
 
 if __name__ == '__main__':
     main()
